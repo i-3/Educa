@@ -17,6 +17,3 @@ DATABASES = {
         'HOST': 'localhost',
     }
 }
-
-SECURE_SSL_REDIRECT = True
-CSRF_COOKIE_SECURE = True
